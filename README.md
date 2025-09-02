@@ -19,3 +19,6 @@ a simple Bash script that leverages FFmpeg to apply a bunch of compression algor
 
 ### MysteryOBasherate
 a crude Bash recreation of Fusion's "mysteryobliterate" command
+
+### CorrYAMLGen
+a Bash script that generates .yaml files designed for use with Corrscope.
