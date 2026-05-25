@@ -16,6 +16,3 @@ a simple set of rules and scripts that aims to separate my files from my operati
 
 ### MysteryOBasherate
 a crude Bash recreation of Fusion's "mysteryobliterate" command
-
-### CorrYAMLGen
-a Bash script that generates .yaml files designed for use with Corrscope.
