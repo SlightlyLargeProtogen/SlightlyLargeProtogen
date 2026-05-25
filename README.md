@@ -14,9 +14,6 @@ i also like to mess around with computers, manipulating them to my will.
 ### Operation OS:Split
 a simple set of rules and scripts that aims to separate my files from my operating system, making it less annoying to reinstall.
 
-### ClusterScript
-a simple Bash script that leverages FFmpeg to apply a bunch of compression algorithms to an input audio file
-
 ### MysteryOBasherate
 a crude Bash recreation of Fusion's "mysteryobliterate" command
 
